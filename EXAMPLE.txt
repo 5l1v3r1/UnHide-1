@@ -1,0 +1,15 @@
+#) How to Use ??? :
+How to use this Tool? check this Tutorial below
+1) Show help:
+   $ python UnHide.py --help
+2) Set Target/Websit:
+   $ python UnHide.py --target=www.example.com
+3) Use Your own Page List:
+   $ python UnHide.py --pagelist="/home/folders/pagelist.txt"
+
+#) Default configuration:
+target: <none> (Need to set)
+pagelist: ./page/mxact666_pagelist.txt (default pagelist)
+
+So...don't forget to specify the Target :)
+For simple scan, You just need to specify the Target
